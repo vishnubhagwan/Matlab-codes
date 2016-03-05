@@ -1,0 +1,1 @@
+This is a sobel filter which is symmetric about middle row and it basically it is basically used for edge detection. In the low transition regions it creates blackening in the image whereas in the high transition regions (eg. image edges), it creates whitening and all other regions are shaded according to the grey scale level. Making high intensity at edges which appears white.
